@@ -1,0 +1,174 @@
+Use?,Top,Category,Question,Short name,Guessed wave,Include,Grouping Required,l1,l2,r1,r2,Col to show,Y-axis Label,Title
+1,,,In the last 12 months your family -- Gone without enough food to eat,financ_1,Wave 1,Include,Yes,1,2,3,5,1,% Somewhat or Very Often,In the last 12 months your family -- Gone without enough food to eat
+1,,,In the last 12 months your family -- Felt unsafe from crime in your home,financ_2,Wave 1,Include,Yes,1,2,3,5,1,% Somewhat or Very Often,In the last 12 months your family -- Felt unsafe from crime in your home
+1,,,In the last 12 months your family -- Gone without medicine or medical treatment that you needed,financ_3,Wave 1,Include,Yes,1,2,3,5,1,% Somewhat or Very Often,In the last 12 months your family -- Gone without medicine or medical treatment that you needed
+1,,,In the last 12 months your family -- Had to borrow money from friends or relatives,financ_4,Wave 1,Include,Yes,1,2,3,5,1,% Somewhat or Very Often,In the last 12 months your family -- Had to borrow money from friends or relatives
+1,,Group-based identity,Next five years - You personally,opt_next1,Wave 1,Include,Yes,1,3,4,5,2,% Better or Much Better,"Thinking about the next five years, do you expect things to
+be better, about the same, or worse for you personally?"
+1,,Group-based identity,Next five years - Your family,opt_next2,Wave 1,Include,Yes,1,3,4,5,2,% Better or Much Better,"Thinking about the next five years, do you expect things to
+be better, about the same, or worse for your family?"
+1,,Public Policy,Next five years - American society,opt_next3,Wave 1,Include,Yes,1,3,4,5,2,% Better or Much Better,"Thinking about the next five years, do you expect things to
+be better, about the same, or worse for American society?"
+1,,Public Policy,Next five years - American economy,opt_next4,Wave 1,Include,Yes,1,3,4,5,2,% Better or Much Better,"Thinking about the next five years, do you expect things to
+be better, about the same, or worse for the American economy?"
+1,,,Identity importance - Race,O1,Wave 1,Include,Yes,1,4,5,7,2,% Important (5-7),How important to you are each of the following parts of your identity? - Your Race
+1,,,Identity importance - Party,O2,Wave 1,Include,Yes,1,4,5,7,2,% Important (5-7),How important to you are each of the following parts of your identity? - Your Political Party
+1,,,Identity importance - Gender,O3,Wave 1,Include,Yes,1,4,5,7,2,% Important (5-7),How important to you are each of the following parts of your identity? - Your Gender
+1,,,Identity importance - American,O4,Wave 1,Include,Yes,1,4,5,7,2,% Important (5-7),How important to you are each of the following parts of your identity? - Being American
+1,Y,America,Thoughts on being American - I think Americans have a lot to be proud of,amer_id3,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I think Americans have a lot to be proud of
+1,Y,America,Thoughts on being American - I am proud to be American,amer_id4,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I am proud to be American
+1,,,"Thoughts on being American - I feel like I am part of a community - people who understand each other, care about each other, and help each other",amer_id6,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,"I feel like I am part of a community - people who understand each other, care about each other, and help each other"
+1,,Group-based identity,Thoughts on being American - I am able to live safely and feel protected in this country,amer_id9,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I am able to live safely and feel protected in this country
+1,,Philosophy,Liberty,ideal_soc_1,Wave 1,Include,No,,,,,1,% Selected,"Values America should strive to embody in
+ideal society - Liberty"
+1,,Philosophy,Equality,ideal_soc_2,Wave 1,Include,No,,,,,1,% Selected,"Values America should strive to embody in
+ideal society - Equality"
+1,,Philosophy,Diversity,ideal_soc_3,Wave 1,Include,No,,,,,1,% Selected,"Values America should strive to embody in
+ideal society - Diversity"
+1,,Philosophy,Self-reliance,ideal_soc_4,Wave 1,Include,No,,,,,1,% Selected,"Values America should strive to embody in
+ideal society - Self-reliance"
+1,,Philosophy,Hope,ideal_soc_5,Wave 1,Include,No,,,,,1,% Selected,"Values America should strive to embody in
+ideal society - Hope"
+1,,Philosophy,Strength,ideal_soc_6,Wave 1,Include,No,,,,,1,% Selected,"Values America should strive to embody in
+ideal society - Strength"
+1,,Philosophy,Prosperity,ideal_soc_7,Wave 1,Include,No,,,,,1,% Selected,"Values America should strive to embody in
+ideal society - Prosperity"
+1,,Philosophy,Happiness,ideal_soc_8,Wave 1,Include,No,,,,,1,% Selected,"Values America should strive to embody in
+ideal society - Happiness"
+1,,Philosophy,Creativity,ideal_soc_9,Wave 1,Include,No,,,,,1,% Selected,"Values America should strive to embody in
+ideal society - Creativity"
+1,,Philosophy,Kindness,ideal_soc_10,Wave 1,Include,No,,,,,1,% Selected,"Values America should strive to embody in
+ideal society - Kindness"
+1,,America,Cohesion agree - People in my local community have more in common than what divides us,cohes1_1,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,People in my local community have more in common than what divides us
+1,,Public Policy,Cohesion agree - Media/social media make America seem more divided than it really is,cohes2_3,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,"Media / social media make America seem more divided than it
+really is"
+1,Y,America,Cohesion agree - Americans have more in common than what divides us,cohes2_4,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,Americans have more in common than what divides us
+1,Y,Public Policy,Democracy agree - The people should govern directly rather than through elected representatives,democ1,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,"The people should govern directly rather than through
+elected representatives"
+1,,Public Policy,Democracy agree - The president should have the power to limit the voice and vote of his/her opponents,democ2,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,The president should have the power to limit the voice and vote of his/her opponents
+1,,Public Policy,Democracy agree - Democracy is imperfect but it is preferable to other forms of government,democ3,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,Democracy is imperfect but it is preferable to other forms of government
+1,,Public Policy,Democracy agree - The political differences between American elites and ordinary Americans are larger than the differences among ordinary Americans,democ6,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,The political differences between American elites and ordinary Americans are larger than the differences among ordinary Americans
+1,,Public Policy,Democratic Culture - People with different views treat each other with respect,demo_cult1,Wave 1,Include,Yes,1,3,4,6,2,% 4-6 (very much),"In the community I live in, people with different views treat each other with respect"
+1,,Public Policy,Democratic Culture - People have an equal opportunity to succeed regardless of who they are or where they come from,demo_cult2,Wave 1,Include,Yes,1,3,4,6,2,% 4-6 (very much),"In the community I live in, people have an equal opportunity to succeed regardless of who they are or where they come from"
+1,,,Democratic Culture - People regularly volunteer to serve their community,demo_cult3,Wave 1,Include,Yes,1,3,4,6,2,% 4-6 (very much),People regularly volunteer to serve their community
+1,,,Democratic Culture - People can express their views through rallies and other peaceful demonstrations,demo_cult4,Wave 1,Include,Yes,1,3,4,6,2,% 4-6 (very much),People can express their views through rallies and other peaceful demonstrations
+1,,Public Policy,Democratic Culture - People can challenge their elected leaders without fear of being punished,demo_cult5,Wave 1,Include,Yes,1,3,4,6,2,% 4-6 (very much),"In the community I live in, people can challenge their elected leaders without fear of being punished"
+1,,,"Democratic Culture - People can join groups that advocate a range of ideas, including ideas that the majority might disagree strongly with",demo_cult6,Wave 1,Include,Yes,1,3,4,6,2,% 4-6 (very much),"People can join groups that advocate a range of ideas, including ideas that the majority might disagree strongly with"
+1,,Public Policy,Threat to Amer Democracy - Decline of traditional American values,prob_demo1,Wave 1,Include,Yes,1,2,3,4,2,% Moderate - Very Much a Threat,Threat to Amer Democracy - Decline of traditional American values
+1,,,Threat to Amer Democracy - Americans being pitted against each other,prob_demo2,Wave 1,Include,Yes,1,2,3,4,2,% Moderate - Very Much a Threat,Threat to Amer Democracy - Americans being pitted against each other
+1,Y,Public Policy,Threat to Amer Democracy - Role of money in politics,prob_demo3,Wave 1,Include,Yes,1,2,3,4,2,% Moderate - Very Much a Threat,Threat to Amer Democracy - Role of money in politics
+1,,Public Policy,Threat to Amer Democracy - Too many government regulations,prob_demo4,Wave 1,Include,Yes,1,2,3,4,2,% Moderate - Very Much a Threat,Threat to Amer Democracy - Too many government regulations
+1,,,Threat to Amer Democracy - Low participation in civic and political activities,prob_demo5,Wave 1,Include,Yes,1,2,3,4,2,% Moderate - Very Much a Threat,Threat to Amer Democracy - Low participation in civic and political activities
+1,,Public Policy,Threat to Amer Democracy - Political parties drawing voting districts to their advantage,prob_demo6,Wave 1,Include,Yes,1,2,3,4,2,% Moderate - Very Much a Threat,Threat to Amer Democracy - Political parties drawing voting districts to their advantage
+1,Y,Public Policy,Threat to Amer Democracy - Unreliable and one-sided media,prob_demo7,Wave 1,Include,Yes,1,2,3,4,2,% Moderate - Very Much a Threat,Threat to Amer Democracy - Unreliable and one-sided media
+1,,,Threat to Amer Democracy - Widespread interference in elections by foreign governments,prob_demo8,Wave 1,Include,Yes,1,2,3,4,2,% Moderate - Very Much a Threat,Threat to Amer Democracy - Widespread interference in elections by foreign governments
+1,,,Live in Democratic country,gov_dem,Wave 1,Include,Yes,1,5,6,10,2,% Important (5-10),How important is it for you to live in a country that is governed democratically?
+1,,,Satisfied with democracy in America,demo_today,Wave 1,Include,Yes,1,3,4,6,2,% Satisfied (4-6),How satisfied are you with the way democracy works in America today?
+1,,,Institution confidence - Federal government,inst_conf1,Wave 1,Include,Yes,1,2,3,4,2,% Some or a Great Deal of Confidence,Institution confidence - Federal government
+1,,,Institution confidence - Your state government,inst_conf2,Wave 1,Include,Yes,1,2,3,4,2,% Some or a Great Deal of Confidence,Institution confidence - Your state government
+1,,,Institution confidence - Your city/town officials,inst_conf3,Wave 1,Include,Yes,1,2,3,4,2,% Some or a Great Deal of Confidence,Institution confidence - Your city/town officials
+1,,,Institution confidence - Military,inst_conf4,Wave 1,Include,Yes,1,2,3,4,2,% Some or a Great Deal of Confidence,Institution confidence - Military
+1,,,Institution confidence - Big business,inst_conf5,Wave 1,Include,Yes,1,2,3,4,2,% Some or a Great Deal of Confidence,Institution confidence - Big business
+1,,,Institution confidence - Media,inst_conf6,Wave 1,Include,Yes,1,2,3,4,2,% Some or a Great Deal of Confidence,Institution confidence - Media
+1,,,Institution confidence - Judiciary/Supreme Court,inst_conf7,Wave 1,Include,Yes,1,2,3,4,2,% Some or a Great Deal of Confidence,Institution confidence - Judiciary/Supreme Court
+1,,Group-based identity,"For people like me, it doesn’t make any difference whether a government is democratic or non-democratic",faith_govt_2,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,"For people like me, it doesn�t make any difference whether a government is democratic or non-democratic"
+1,,,faith_govt_grid -- My faith in democracy and democratic processes has declined over time.,faith_govt_1,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,My faith in democracy and democratic processes has declined over time.
+1,,Group-based identity,Politician care,pol_care,Wave 1,Include,Yes,1,2,3,4,1,% Agree (1-2),"In my experience, politicians want my vote and genuinely care about my
+well-being."
+1,,,Feelings toward America - Dillusioned,descr_amer1,Wave 1,Include,Yes,1,2,3,4,2,% Somewhat or Very,Feelings toward America - Dillusioned
+1,,,Feelings toward America - Frustrated,descr_amer2,Wave 1,Include,Yes,1,2,3,4,2,% Somewhat or Very,Feelings toward America - Frustrated
+1,,,Feelings toward America - Lonely,descr_amer3,Wave 1,Include,Yes,1,2,3,4,2,% Somewhat or Very,Feelings toward America - Lonely
+1,,,Feelings toward America - Exhausted,descr_amer4,Wave 1,Include,Yes,1,2,3,4,2,% Somewhat or Very,Feelings toward America - Exhausted
+1,,,Feelings toward America - Hopeful,descr_amer5,Wave 1,Include,Yes,1,2,3,4,2,% Somewhat or Very,Feelings toward America - Hopeful
+1,,,Feelings toward America - Excited,descr_amer6,Wave 1,Include,Yes,1,2,3,4,2,% Somewhat or Very,Feelings toward America - Excited
+1,,,Feelings toward America - Confident,descr_amer7,Wave 1,Include,Yes,1,2,3,4,2,% Somewhat or Very,Feelings toward America - Confident
+1,,,Feelings toward America - Satisfied,descr_amer8,Wave 1,Include,Yes,1,2,3,4,2,% Somewhat or Very,Feelings toward America - Satisfied
+1,,,"vote_percep_grid -- When I vote in elections, I feel a sense of pride in being American.",vote_percep_a,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree," When I vote in elections, I feel a sense of pride in being American."
+1,,Public Policy,Vote perception - I vote in part to honor people who fought for my right to vote,vote_percep_b,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I vote in part to honor people who fought for my right to vote
+1,,,Vote perception - I feel like I let my country down when I don't vote,vote_percep_c,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I feel like I let my country down when I don't vote
+1,,,Vote perception - I vote because I want my candidates to win,vote_percep_d,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I vote because I want my candidates to win
+1,,,Vote perception - I vote to make sure the other side loses,vote_percep_e,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I vote to make sure the other side loses
+1,,,Vote perception - I vote because I feel pressure from my peers to do so,vote_percep_f,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I vote because I feel pressure from my peers to do so
+1,,Public Policy,Vote perception - I feel voting is a way I can improve my country,vote_percep_g,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I feel voting is a way I can improve my country
+1,,,Vote is civic right,vote_right,Wave 1,Include,Yes,1,2,3,4,1,% Voting is a civic right for all citizens,1 - Voting is a civic right for all citizens. No one should be able to take it away.  vs  4 - Voting is a civic right that is earned by being a good citizen. Taking this privilege away is justifiable if one breaks the law.
+1,,,Importance of 2020 election,vote2020_imp,Wave 1,Include,No,,,,,1,% The 2020 election is one of the most important elections of my lifetime,The 2020 election is one of the most important elections of my lifetime (vs not any more important)
+1,,Public Policy,Important issues - Immigration,imp_issues_1,Wave 1,Include,No,,,,,1,% Selected,Important issues - Immigration
+1,,Public Policy,Important issues - Healthcare,imp_issues_2,Wave 1,Include,No,,,,,1,% Selected,Important issues - Healthcare
+1,,Public Policy,Important issues - Inequality,imp_issues_3,Wave 1,Include,No,,,,,1,% Selected,Important issues - Inequality
+1,,Public Policy,Important issues - State of the economy/Jobs,imp_issues_4,Wave 1,Include,No,,,,,1,% Selected,Important issues - State of the economy/Jobs
+1,,Public Policy,Important issues - Racism and discrimination,imp_issues_5,Wave 1,Include,No,,,,,1,% Selected,Important issues - Racism and discrimination
+1,,Public Policy,Important issues - Gun control/Second amendment rights,imp_issues_6,Wave 1,Include,No,,,,,1,% Selected,Important issues - Gun control/Second amendment rights
+1,,Public Policy,Important issues - Environment/climate change,imp_issues_7,Wave 1,Include,No,,,,,1,% Selected,Important issues - Environment/climate change
+1,,Public Policy,Important issues - Foreign terrorism,imp_issues_8,Wave 1,Include,No,,,,,1,% Selected,Important issues - Foreign terrorism
+1,,Public Policy,Important issues - Threats from hostile foreign powers,imp_issues_9,Wave 1,Include,No,,,,,1,% Selected,Important issues - Threats from hostile foreign powers
+1,,Public Policy,Important issues - The coronavirus pandemic,imp_issues_10,Wave 1,Include,No,,,,,1,% Selected,Important issues - The coronavirus pandemic
+1,,Public Policy,Important issues - Ensuring a safe and secure election,imp_issues_11,Wave 1,Include,No,,,,,1,% Selected,Important issues - Ensuring a safe and secure election
+1,,,How pepared is the US Government for the upcoming election,prep_election_fed,Wave 1,Include,Yes,1,2,3,4,2,% Prepared,How pepared is the US Government for the upcoming election
+1,,,How pepared is State Government for the upcoming election,prep_election_st,Wave 1,Include,Yes,1,2,3,4,2,% Prepared,How pepared is State Government for the upcoming election
+1,,Public Policy,Election Statments -- It would be reasonable for President Trump to refuse to step down if he suspects that election results are fraudulent.,open_elec_1,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,It would be reasonable for President Trump to refuse to step down if he suspects that election results are fraudulent.
+1,,,Election Statments -- A do-over of the election is reasonable if the popular vote results in a different winner from the electoral college system,open_elec_2,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,A do-over of the election is reasonable if the popular vote results in a different winner from the electoral college system
+1,,,Election Statments -- I worry about the risk of widespread violence across America after the results of the 2020 election are announced.,open_elec_3,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I worry about the risk of widespread violence across America after the results of the 2020 election are announced.
+1,,Public Policy,"Election Statments -- No matter who wins the presidential election, it is essential that all Americans accept valid results.",open_elec_4,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,"No matter who wins the presidential election, it is essential that all Americans accept valid results."
+1,,,"Election Statments -- Strong security measures, like bringing in the military to guard polling stations, are reasonable to ensure that elections are secure.",open_elec_5,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,"Strong security measures, like bringing in the military to guard polling stations, are reasonable to ensure that elections are secure."
+1,,,"Election Statments -- Media companies, including social media companies should ban all political advertisements in the week before the presidential election.",open_elec_6,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,"Media companies, including social media companies should ban all political advertisements in the week before the presidential election."
+1,,Public Policy,Election Statments -- It’s more important that we come together as a country after the election than to challenge the result if my candidate loses the presidency.,open_elec_8,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,It's more important that we come together as a country after the election than to challenge the result if my candidate loses the presidency.
+1,,Public Policy,Mail in ballot security,mail_in,Wave 1,Include,Yes,1,2,3,4,1,% Agree (1-2),Mail-in ballots are a secure and valid voting method
+1,,,Voting statements -- It is reasonable for the government to require that people wear face masks in polling stations to be able to vote.,elect_state_1,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,It is reasonable for the government to require that people wear face masks in polling stations to be able to vote.
+1,,,"Voting statements -- Given potential changes in this year’s elections due to the coronavirus pandemic (e.g. mail-in voting), I am willing to wait for a few days for results to be announced, to ensure that election ballots are counted accurately.",elect_state_2,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,"Given potential changes in this year’s elections due to the coronavirus pandemic (e.g. mail-in voting), I am willing to wait for a few days for results to be announced, to ensure that election ballots are counted accurately."
+1,,,"Voting statements -- Given potential changes in this year’s elections due to the coronavirus pandemic (e.g. mail-in voting), I am willing to wait for a few weeks for results to be announced, to ensure that election ballots are counted accurately.",elect_state_3,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,"Given potential changes in this year’s elections due to the coronavirus pandemic (e.g. mail-in voting), I am willing to wait for a few weeks for results to be announced, to ensure that election ballots are counted accurately."
+1,,,"Voting statements -- I think that the longer the wait to get election results, the higher the chances that fraud will occur.",elect_state_4,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,"I think that the longer the wait to get election results, the higher the chances that fraud will occur."
+1,,,"Thinking ahead to next year, which statement do you agree with more",next_year,Wave 1,Include,No,,,,,1,% More united in 2021,America will be more united in 2021. vs America in 2021 will be about the same as it is now.
+1,,,Political Interest,newsint,Wave 1,Include,Yes,1,2,3,4,1,% Some or Most of the Time,Would you say you follow what's going on in government and public affairs�
+1,,,Choose the statement that best describes you:,discr_you,Wave 1,Include,No,,,,,1,"% In general, I actively seek out news and information","In general, I actively seek out news and information vs I come across information"
+1,,,"Trusted sources - Sources such as Slate, Buzzfeed, Vox, or Huffington Post",news_source_1,Wave 1,Include,No,,,,,1,% Selected,"Trusted sources - Sources such as Slate, Buzzfeed, Vox, or Huffington Post"
+1,,,Trusted sources - The New York Times or the Washington Post,news_source_2,Wave 1,Include,No,,,,,1,% Selected,Trusted sources - The New York Times or the Washington Post
+1,,,"Trusted sources - The Wall Street Journal, or the Washington Times",news_source_3,Wave 1,Include,No,,,,,1,% Selected,"Trusted sources - The Wall Street Journal, or the Washington Times"
+1,,,"Trusted sources - MSNBC, CNN",news_source_4,Wave 1,Include,No,,,,,1,% Selected,"Trusted sources - MSNBC, CNN"
+1,,,"Trusted sources - Bloomberg, CNBC",news_source_5,Wave 1,Include,No,,,,,1,% Selected,"Trusted sources - Bloomberg, CNBC"
+1,,,Trusted sources - FOX News Network,news_source_6,Wave 1,Include,No,,,,,1,% Selected,Trusted sources - FOX News Network
+1,,,Trusted sources - Breitbart,news_source_7,Wave 1,Include,No,,,,,1,% Selected,Trusted sources - Breitbart
+1,,,"Trusted sources - OANN, Newsmax",news_source_8,Wave 1,Include,No,,,,,1,% Selected,"Trusted sources - OANN, Newsmax"
+1,,,"Trusted sources - ABC, CBS, NBC",news_source_9,Wave 1,Include,No,,,,,1,% Selected,"Trusted sources - ABC, CBS, NBC"
+1,,,"Trusted sources - NPR, PBS",news_source_10,Wave 1,Include,No,,,,,1,% Selected,"Trusted sources - NPR, PBS"
+1,,,"Trusted sources - BBC, Aljazeera",news_source_11,Wave 1,Include,No,,,,,1,% Selected,"Trusted sources - BBC, Aljazeera"
+1,,,"Trusted sources - Local television news, radio, or newspapers in your area",news_source_12,Wave 1,Include,No,,,,,1,% Selected,"Trusted sources - Local television news, radio, or newspapers in your area"
+1,,,Trusted sources - Conservative talk radio programs like Rush Limbaugh or Sean Hannity,news_source_13,Wave 1,Include,No,,,,,1,% Selected,Trusted sources - Conservative talk radio programs like Rush Limbaugh or Sean Hannity
+1,,,Trusted sources - Podcasts like The Daily or Pod Save America,news_source_14,Wave 1,Include,No,,,,,1,% Selected,Trusted sources - Podcasts like The Daily or Pod Save America
+1,,,Trusted sources - Government websites,news_source_15,Wave 1,Include,No,,,,,1,% Selected,Trusted sources - Government websites
+1,,,Trusted sources - Other,news_source_16,Wave 1,Include,No,,,,,1,% Selected,Trusted sources - Other
+1,,,Trusted sources - Nothing. I don’t trust the media.,news_source_17,Wave 1,Include,No,,,,,1,% Selected,Trusted sources - Nothing. I don’t trust the media.
+1,,Public Policy,How often do you follow news about politics,pol_int_1,Wave 1,Include,Yes,1,3,4,5,1,% At Least Once or Twice a Week,How often do you follow news about politics?
+1,,Public Policy,How often do you use social media?,freq_sm,Wave 1,Include,Yes,1,3,4,5,1,% At Least 1-2 Hours Daily,How often do you use social media?
+1,,Abstract Philosophy,Cognition statements -- I enjoy having a clear and structured life,cog1_1,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I enjoy having a clear and structured life
+1,,,Cognition statements -- I dislike unpredictable situations.,cog1_2,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I dislike unpredictable situations.
+1,,,Cognition statements -- I usually make important decisions quickly and confidently.,cog1_3,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I usually make important decisions quickly and confidently.
+1,,,Cognition statements -- I like thinking about issues even when they do not affect me personally.,cog2_1,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I like thinking about issues even when they do not affect me personally.
+1,,,Cognition statements -- I really enjoy a task that involves coming up with new solutions to a problem.,cog2_2,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I really enjoy a task that involves coming up with new solutions to a problem.
+1,,Abstract Philosophy,Cognition statements -- Changing your mind is a sign of weakness.,cog3_1,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,Changing your mind is a sign of weakness.
+1,,,Cognition statements -- It is important to be loyal to your beliefs even when evidence is brought against them.,cog3_2,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,It is important to be loyal to your beliefs even when evidence is brought against them.
+1,,,Cognition statements -- There is nothing wrong with being undecided about many issues.,cog3_3,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,There is nothing wrong with being undecided about many issues.
+1,,,"Cognition statements -- When we are faced with a new question, the first answer that occurs to us is usually best.",cog3_4,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,"When we are faced with a new question, the first answer that occurs to us is usually best."
+1,Y,Public Policy,It is unfair to have an economic system that allows for extreme wealth and extreme poverty at the same time,fairness1,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,It is unfair to have an economic system that allows for extreme wealth and extreme poverty at the same time
+1,,Public Policy,"Authority - To fix America, we need a leader who is willing to break the rules",auth1,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,"To fix America, we need a leader who is willing to break the rules"
+1,,,"Authority - What our country needs most is discipline, with everyone following our leaders",auth2,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,"What our country needs most is discipline, with everyone following our leaders"
+1,,Public Policy,Authority - The world is becoming a more dangerous place,auth4,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,The world is becoming a more dangerous place
+1,,,auth -- The only way our country can get through this time of crisis is to get back to our traditional values.,auth3,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,The only way our country can get through this time of crisis is to get back to our traditional values.
+1,,,Can people be trusted,trust_people,Wave 1,Include,No,,,,,1,% Most people can be trusted,Most people can be trusted vs You can't be too careful in dealing with people
+1,,,Moral Foundations Theory -- Compassion for those who are suffering is the most important virtue in a person.,moral_1,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,Compassion for those who are suffering is the most important virtue in a person.
+1,Y,Abstract Philosophy,Moral Foundations Theory -- One of the worst things a person could do is hurt a defenseless animal.,moral_6,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,One of the worst things a person could do is hurt a defenseless animal.
+1,,,"Moral Foundations Theory -- When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",moral_2,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly."
+1,,,Moral Foundations Theory -- Justice is the most important requirement for a society.,moral_7,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,Justice is the most important requirement for a society.
+1,Y,Abstract Philosophy,Moral Foundations Theory -- Respect for authority is something all children need to learn.,moral_4,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,Respect for authority is something all children need to learn.
+1,,America,Moral Foundations Theory -- I am proud of my country's history.,moral_3,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I am proud of my country's history.
+1,,Abstract Philosophy,"Moral Foundations Theory -- People should be loyal to their family members, even when they have done something wrong.",moral_8,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,"People should be loyal to their family members, even when they have done something wrong."
+1,,,"Moral Foundations Theory -- People should not do things that are disgusting, even if no one is harmed.",moral_5,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,"People should not do things that are disgusting, even if no one is harmed."
+1,,,Moral Foundations Theory -- I would call some acts wrong on the grounds that they are unnatural.,moral_10,Wave 1,Include,Yes,1,3,4,6,2,% Slightly-Strongly Agree,I would call some acts wrong on the grounds that they are unnatural.
+1,Y,Public Policy,Scale of government,lr_ideo_1,Wave 1,Include,No,,,,,2,% Selected,People should take more responsibility to provide for themselves
+1,,Abstract Philosophy,Agency and causality,lr_ideo_2,Wave 1,Include,No,,,,,1,% Selected,People are largely responsible for their own outcomes in life
+1,,Abstract Philosophy,Control of life,lr_ideo_3,Wave 1,Include,No,,,,,1,% Selected,People who work hard can find success no matter what situation they were born into
+1,Y,Abstract Philosophy,Hard work vs Luck,lr_ideo_4,Wave 1,Include,No,,,,,1,% Hard Work,Hard work vs Luck
+1,,Abstract Philosophy,Authoritarianism: Independence vs. Respect for elders,auth_1,Wave 1,Include,No,,,,,2,% Respect for elders,Authoritarianism: Independence vs. Respect for elders
+1,,Abstract Philosophy,Authoritarianism: Obedience vs. Self-reliance,auth_2,Wave 1,Include,No,,,,,1,% Obedience,Authoritarianism: Obedience vs. Self-reliance
+1,,Abstract Philosophy,Authoritarianism: Well-behaved vs. Creative,auth_3,Wave 1,Include,No,,,,,1,% Well-behaved,Authoritarianism: Well-behaved vs. Creative
+1,,Abstract Philosophy,Authoritarianism: Curiosity vs. Good manners,auth_4,Wave 1,Include,No,,,,,2,% Good manners,Authoritarianism: Curiosity vs. Good manners
+1,,Group-based identity,Victimhood -- These days the rights of immigrants are more protected than the rights of American citizens.,V1,Wave 1,Include,Yes,1,4,5,7,2,% Slightly-Strongly Agree,These days the rights of immigrants are more protected than the rights of American citizens.
