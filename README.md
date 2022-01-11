@@ -7,17 +7,17 @@ This file walks through the different components of the analytics for my PAE.
 To run this code, you just need to update the links in the different sections of `Analytics_PAE.R` and `Regressions_PAE.R` to point to the correct source files.
 
 * **Source data (`df`)** - I have stored these files locally but can send the files along using Google Drive or some other secure link. They are referened in both R scripts.
-  *  Daniel Y's R functions file
-  *  EIP export from Crunch
-  *  HT (levels for sharing)
-  *  AF export from Crunch
+  *  Daniel Y's R functions file - `R functions.R`
+  *  EIP export from Crunch - `minc0019-eip-wave-1-3  to use.csv`
+  *  HT (levels for sharing) - `Hidden Tribes Data - Levels for Sharing.csv`
+  *  AF export from Crunch - `minc0007-american-fabric to use.csv`
 	
-* **Question files (`qsdf`)** - these files tell R how to label the charts and group the data. They are referenced in `Analytics_PAE.R`.
-  *  AF - questions
-  *  AF - MT
-  *  AF - media
-  *  HT - questions
-  *  EIP - questions
+* **Question files (`qsdf`)** - these files tell R how to label the charts and group the data. Very important! They are referenced in `Analytics_PAE.R`.
+  *  `AF - questions.csv`
+  *  `AF - MT.csv`
+  *  `AF - media.csv`
+  *  `HT - questions.csv`
+  *  `EIP - questions.csv`
 
 * **Analytics Scripts (code)** - run these files to get outputs
   * `Analytics_PAE.R` - creates charts with 95% confidence intervals (the report just shows bar graphs sans error bars, this is more detailed for you guys). Modify this script to add to the charts (eg: if you want to run this analysis for gender)
