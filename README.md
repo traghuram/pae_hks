@@ -21,7 +21,7 @@ To run this code, you just need to update the links in the different sections of
 
 * **Analytics Scripts (code)** - run these files to get outputs
   * `Analytics_PAE.R` - creates charts with 95% confidence intervals (the report just shows bar graphs sans error bars, this is more detailed for you guys). Modify this script to add to the charts (eg: if you want to run this analysis for gender)
-  * `Regressions_PAE.R` - runs regressions for each question, and it also has some formatting code that you can pull into the PAE_charts.R file if you want to expand the analysis from Race to other covariates
+  * `Regressions_PAE.R` - runs regressions for each question, and it also has some formatting code that you can pull into the Analytics_PAE.R file if you want to expand the analysis from Race to other covariates
 
 
 * **Export Files** - already compiled outputs
