@@ -1,4 +1,4 @@
-# pae_hks
+# Taran Raghuram Policy Analysis Exercise Addendum
 
 This file walks through the different components of the analytics for my PAE.
 
