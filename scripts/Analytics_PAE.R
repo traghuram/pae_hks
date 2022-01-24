@@ -342,13 +342,13 @@ df$Hidden_Tribes <- factor(df$Hidden_Tribes, levels = c("Progressive Activists",
 df <- df %>%
   mutate(Hidden_Tribes_abbr =
            case_when(
-             Hidden.Tribes_Correct == 6 ~ "Prog Acts",
-             Hidden.Tribes_Correct == 5 ~ "Trad Libs",
-             Hidden.Tribes_Correct == 4 ~ "Pass Libs",
+             Hidden.Tribes_Correct == 0 ~ "Prog Acts",
+             Hidden.Tribes_Correct == 1 ~ "Trad Libs",
+             Hidden.Tribes_Correct == 2 ~ "Pass Libs",
              Hidden.Tribes_Correct == 3 ~ "Pol Dis",
-             Hidden.Tribes_Correct == 2 ~ "Mods",
-             Hidden.Tribes_Correct == 1 ~ "Trad Cons",
-             Hidden.Tribes_Correct == 0 ~ "Dev Cons"
+             Hidden.Tribes_Correct == 4 ~ "Mods",
+             Hidden.Tribes_Correct == 5 ~ "Trad Cons",
+             Hidden.Tribes_Correct == 6 ~ "Dev Cons"
            ))
 df$Hidden_Tribes_abbr  <- as.factor(df$Hidden_Tribes_abbr)
 df$Hidden_Tribes_abbr <- factor(df$Hidden_Tribes_abbr, levels = c("Prog Acts", "Trad Libs",
